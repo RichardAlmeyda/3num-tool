@@ -11,7 +11,7 @@ This tool is designed for authorized security testing purposes only. Unauthorize
 ## Installation
 To install the required dependencies, use the following command:
 
-pip install -r requirements.txt
+#pip install -r requirements.txt
 
 This will install the necessary Python packages specified in the requirements.txt file.
 
@@ -19,6 +19,8 @@ This will install the necessary Python packages specified in the requirements.tx
 
 
 *Usage*
+
+##python 3num.py -h
 
 The tool supports multiple enumeration options. Here are some examples:
 
