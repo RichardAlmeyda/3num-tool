@@ -9,6 +9,8 @@
 This tool is designed for authorized security testing purposes only. Unauthorized use is illegal. Ensure you have the right to perform any enumeration activities.
 
 ## Installation
+sudo git clone https://github.com/Wengallbi99/3num-tool.git
+
 To install the required dependencies, use the following command:
 
 #pip install -r requirements.txt
