@@ -14,9 +14,11 @@ sudo git clone https://github.com/Wengallbi99/3num-tool.git
 To install the required dependencies, use the following command:
 
 #pip install -r requirements.txt
+
+
 #sudo apt install gobuster hydra whatweb
 
-This will install the necessary Python packages specified in the requirements.txt file.
+This will install the necessary Python packages specified in the requirements.txt file and required tools
 
 
 
