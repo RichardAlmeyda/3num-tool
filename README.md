@@ -1,4 +1,3 @@
-######   by @ram1z  #########
 ######   tg:@RichardAlmeyda ######
 
 
