@@ -65,7 +65,6 @@ Adjust the options and parameters based on your testing requirements.
 Always ensure you have the right permissions to perform the chosen enumeration activities.
 
 
-This README provides a brief overview of the tool, installation instructions, and usage examples.
 
 
 
